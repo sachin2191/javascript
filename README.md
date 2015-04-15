@@ -115,7 +115,7 @@
       klass: 'alien'
     };
 
-    // good
+    // goodjhz;kfn;zg
     var superman = {
       type: 'alien'
     };
